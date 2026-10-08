@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.npm-cache/
+.npmrc
+.DS_Store
+
+# Local design and agent QA artifacts
+AGENTS.md
+qa-*.png
+design-qa.md
+quality-gate.json
+ai-slop-cleanup.md
+codex-goal-complete.json
+.codex/
+.omx/
